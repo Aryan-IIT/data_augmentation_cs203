@@ -33,4 +33,4 @@ Run `training_and_inference.ipynb` to:
 - Compare results and analyze model effectiveness.
 
 ### Documentation 
-- Interpreataion and documentation is mentioned in 'Documentation_Lab05_Assignment.pdf'
+- Interpreataion and documentation is mentioned in `Documentation_Lab05_Assignment.pdf`

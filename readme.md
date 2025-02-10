@@ -1,5 +1,5 @@
 # Cats and Dogs Image Classification
-
+[Report](https://github.com/Aryan-IIT/data_augmentation_cs203/blob/main/Documentation_Lab05_Assignment.pdf)  
 ## Task 1: Data Preparation  
 
 ### Step 1: Download the Dataset  
